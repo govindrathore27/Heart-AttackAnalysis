@@ -1,5 +1,5 @@
 # Heart-Attack Analysis
-!{}(https://images.medicinenet.com/images/illustrations/heart_attack.jpg)
+![](https://images.medicinenet.com/images/illustrations/heart_attack.jpg)
 
 
 Main highlights of the notebook:
